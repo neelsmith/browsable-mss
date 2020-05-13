@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This site is intended to host static-page  facsimiles of several Greek and Latin manuscripts.
