@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,21 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Canonically citable manuscript facsimiles
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site hosts physical facsimiles of a
+  number of Greek and Latin manuscripts.
+  Tables of contents are presented as paged thumbnail images; views of manuscript pages
+  are linked to the Homer Multitext project's
+  image citation tool at http://www.homermultitext.org/ict2
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: neelsmithhc
+github_username:  neelsmith
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+
+header_pages:
+  - mss/index.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+list_title: "News and updates"
 ---
 
 This site is intended to host static-page  facsimiles of several Greek and Latin manuscripts.
