@@ -6,4 +6,4 @@ layout: home
 list_title: "News and updates"
 ---
 
-This site is intended to host static-page  facsimiles of several Greek and Latin manuscripts.
+A site for citable facsimiles of Greek and Latin manuscripts.
