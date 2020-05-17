@@ -1,0 +1,14 @@
+---
+layout: page
+title: Venetus A (Marciana 454 = 822), folio 29, recto
+---
+
+Venetus A (Marciana 454 = 822), folio 29, recto
+
+Cite this object as `urn:cite2:hmt:msA.v1:29r`.  The full image is linked to a citation tool you can use to cite regions of the image.
+
+[![VA029RN_0030](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/hmt/vaimg/2017a/VA029RN_0030.tif/full/800,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA029RN_0030) 
+
+---
+
+previous:  [28v](../28v/) | next: [29v](../29v/)

@@ -1,0 +1,14 @@
+---
+layout: page
+title: Venetus A (Marciana 454 = 822), folio 199, verso
+---
+
+Venetus A (Marciana 454 = 822), folio 199, verso
+
+Cite this object as `urn:cite2:hmt:msA.v1:199v`.  The full image is linked to a citation tool you can use to cite regions of the image.
+
+[![VA199VN_0701](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/hmt/vaimg/2017a/VA199VN_0701.tif/full/800,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA199VN_0701) 
+
+---
+
+previous:  [199r](../199r/) | next: [200r](../200r/)

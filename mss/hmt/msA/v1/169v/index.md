@@ -1,0 +1,14 @@
+---
+layout: page
+title: Venetus A (Marciana 454 = 822), folio 169, verso
+---
+
+Venetus A (Marciana 454 = 822), folio 169, verso
+
+Cite this object as `urn:cite2:hmt:msA.v1:169v`.  The full image is linked to a citation tool you can use to cite regions of the image.
+
+[![VA169VN_0671](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/hmt/vaimg/2017a/VA169VN_0671.tif/full/800,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA169VN_0671) 
+
+---
+
+previous:  [169r](../169r/) | next: [170r](../170r/)
