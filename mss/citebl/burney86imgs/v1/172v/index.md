@@ -1,0 +1,14 @@
+---
+layout: page
+title: British Library, Burney 86, folio 172 verso
+---
+
+British Library, Burney 86, folio 172 verso
+
+Cite this object as `urn:cite2:citebl:burney86pages.v1:172v`.  The full image is linked to a citation tool you can use to cite regions of the image.
+
+[![burney_ms_86_f172v](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/citebl/burney86imgs/v1/burney_ms_86_f172v.tif/full/800,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f172v) 
+
+---
+
+previous:  [172r](../172r/) | next: [173r](../173r/)
