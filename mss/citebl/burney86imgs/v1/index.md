@@ -1,6 +1,6 @@
 ---
 layout: page
-title: British Library, Burney 86
+title: Burney 86 manuscript
 ---
 
 

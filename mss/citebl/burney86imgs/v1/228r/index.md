@@ -9,6 +9,8 @@ Cite this object as `urn:cite2:citebl:burney86pages.v1:228r`.  The full image is
 
 [![burney_ms_86_f228r](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/citebl/burney86imgs/v1/burney_ms_86_f228r.tif/full/800,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f228r) 
 
+<p style="text-align: center; font-style: italic;">Image in the public domain.</p>
+
 ---
 
-previous:  [227v](../227v/) | next: [228v](../228v/)
+previous: [227v](../227v/) | next: [228v](../228v/)

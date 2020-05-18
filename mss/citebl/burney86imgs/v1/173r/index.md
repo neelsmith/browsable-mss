@@ -9,6 +9,8 @@ Cite this object as `urn:cite2:citebl:burney86pages.v1:173r`.  The full image is
 
 [![burney_ms_86_f173r](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/citebl/burney86imgs/v1/burney_ms_86_f173r.tif/full/800,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f173r) 
 
+<p style="text-align: center; font-style: italic;">Image in the public domain.</p>
+
 ---
 
-previous:  [172v](../172v/) | next: [173v](../173v/)
+previous: [172v](../172v/) | next: [173v](../173v/)
