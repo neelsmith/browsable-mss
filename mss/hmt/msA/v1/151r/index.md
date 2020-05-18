@@ -9,6 +9,8 @@ Cite this object as `urn:cite2:hmt:msA.v1:151r`.  The full image is linked to a 
 
 [![VA151RN_0323](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/hmt/vaimg/2017a/VA151RN_0323.tif/full/800,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA151RN_0323) 
 
+<p style="text-align: center; font-style: italic;">This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezia, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.</p>
+
 ---
 
-previous:  [150v](../150v/) | next: [151v](../151v/)
+previous: [150v](../150v/) | next: [151v](../151v/)
