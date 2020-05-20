@@ -25,11 +25,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   number of Greek and Latin manuscripts.
   Tables of contents are presented as paged thumbnail images; views of manuscript pages
   are linked to the Homer Multitext project's
-  image citation tool at http://www.homermultitext.org/ict2
+  image citation tool.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: neelsmithhc
 github_username:  neelsmith
+
+author:  Neel Smith
+website: https://neelsmith.info/
+
 
 # Build settings
 theme: minima
