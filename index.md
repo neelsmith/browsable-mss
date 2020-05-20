@@ -6,4 +6,4 @@ layout: home
 list_title: "News and updates"
 ---
 
-A site for citable facsimiles of Greek and Latin manuscripts.
+On this site, you'll find a selection of facsimiles of Greek and Latin manuscripts that let you cite pages of manuscripts and related documentary images using technology-independent, immutable URNs
