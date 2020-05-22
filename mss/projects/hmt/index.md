@@ -3,6 +3,7 @@ layout: page
 title: The Homer Multitext project
 ---
 
+## The oldest manuscripts of the *Iliad* with scholia
 
 The [Homer Multitext project](http://www.homermultitext.org/) is currently focusing on manuscripts of the *Iliad* with *scholia*.  The six listed here are the earliest manuscripts with *scholia* (generally dated to the tenth or eleventh century).
 
@@ -18,3 +19,11 @@ Two closely related manuscripts follow a layout spanning a verso and facing rect
 
 - Venice, Biblioteca Marciana 453 = 821 ("the Venetus B").
 - Escorial Monastery, codex Υ 1.1
+
+## Other manuscripts
+
+
+- Bibliothèque de Genève, Ms. gr. 44
+- British Library, Add MS 17210
+- British Library, Burney 5693
+- Cologny, Fondation Martin Bodmer, Cod. Bodmer 85
