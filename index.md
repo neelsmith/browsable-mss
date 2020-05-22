@@ -6,4 +6,4 @@ layout: home
 list_title: "News and updates"
 ---
 
-On this site, you'll find facsimiles of a selection of Greek and Latin manuscripts that let you cite pages of manuscripts and related documentary images using technology-independent, immutable URNs.
+On this site, you'll find facsimiles of a selection of Greek and Latin manuscripts and papyri that let you cite physical surfaces and related documentary images using technology-independent, immutable URNs.
