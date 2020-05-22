@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Canonically citable manuscript facsimiles
+title: Canonically citable facsimiles
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This site hosts physical facsimiles of a
-  number of Greek and Latin manuscripts.
-  Tables of contents are presented as paged thumbnail images; views of manuscript pages
+  number of Greek and Latin manuscripts and papyri.
+  Tables of contents are presented as paged thumbnail images; views of pages
   are linked to the Homer Multitext project's
   image citation tool.
 baseurl: "" # the subpath of your site, e.g. /blog
