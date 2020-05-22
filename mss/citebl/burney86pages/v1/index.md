@@ -38,3 +38,7 @@ View page:
 - [240v](./240v/): *Iliad* 22
 - [250r](./250r/): *Iliad* 23
 - [266v](./266v/): *Iliad* 24
+
+## More information
+
+- from [the British Library](https://www.bl.uk/manuscripts/FullDisplay.aspx?index=4&ref=Burney_MS_86)

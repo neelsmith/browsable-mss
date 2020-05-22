@@ -38,3 +38,8 @@ View page:
 - [367r](./367r/): *Iliad*  22
 - [380v](./380v/): *Iliad*  23
 - [402r](./402r/): *Iliad*  24
+
+
+## More information
+
+- catalog entry from [the Laurentian Library](http://mss.bmlonline.it/s.aspx?Id=AWOS3nxzI1A4r7GxMda1&c=catalogo#/oro/79)

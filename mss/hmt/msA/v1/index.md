@@ -38,3 +38,7 @@ View page:
 - [282r](./282r/): *Iliad* 22
 - [292r](./292r/): *Iliad* 23
 - [310v](./310v/): *Iliad* 24
+
+## More information
+
+- from [the Homer Multitext project](http://www.homermultitext.org/manuscripts/venetusA/)

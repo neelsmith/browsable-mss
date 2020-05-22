@@ -43,3 +43,8 @@ View page:
 - [188r](./188r/): *Iliad* 22
 - [194r](./194r/): *Iliad* 23
 - [206r](./206r/): *Iliad* 24
+
+
+## More information
+
+- from [the Homer Multitext project](http://www.homermultitext.org/manuscripts/omega-1-12)
