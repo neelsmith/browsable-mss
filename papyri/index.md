@@ -4,6 +4,13 @@ title: Papyri
 ---
 
 
-- Aristotle, *Constitution of the Athenians*
+Some Greek literary papyri:
+
+
+
 - the "Bankes Homer"
 - the "Harris Homer"
+- the "Hawara Homer"
+
+
+- Aristotle, *Constitution of the Athenians*
