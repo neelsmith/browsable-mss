@@ -7,4 +7,4 @@ layout: page
 
 ## More information
 
-- from the [BIBLIOTHÈQUE NATIONALE DE FRANCE](https://archivesetmanuscrits.bnf.fr/ark:/12148/cc22522c)
+- from the [Bibliothèque Nationale de France](https://archivesetmanuscrits.bnf.fr/ark:/12148/cc22522c)
