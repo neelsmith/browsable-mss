@@ -44,6 +44,7 @@ plugins:
 header_pages:
   - mss/index.md
   - papyri/index.md
+  - data/index.md
   - about.md
 
 
