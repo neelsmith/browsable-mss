@@ -3,49 +3,13 @@ layout: page
 title: Data
 ---
 
-# TO BE ADDED
-
-Sources for images with accompanying catalogs of images and artifacts:
+The following pages document how to download data from each of the sources used on this web site, and, for each manuscript or papyrus, link to plain-text files in CEX format cataloging a set of images and a model of the codex or papyrus as a sequence of illustrated surfaces.
 
 
-## e-codices project
 
-```
-├── citeecod
-│   ├── codsang359pages
-│   ├── gen44pages
-│   └── einsiedeln121pages
-```
 
-## London, British Library
-
-- [urn:cite2:citebl:burney86pages.v1:](./citebl/burney86pages/v1/)
-
-```
-├── citebl
-│   ├── addms17210imgs
-│   ├── harley5693pages
-```
-
-## Paris, Bibliothèque nationale de France
-
-```
-├── citegallica
-│   └── bnf2389imgs
-```
-
-## Florence, Laurentian Library
-
-```
-├── citelaur
-│   └── laur32pages
-```
-
-## Homer Multitext project
-
-- [urn:cite2:hmt:msA.v1:](./hmt/msA/v1/)
-
-```
-├── hmt
-│   ├── e4pages
-```
+- the e-codices project
+- London, the [British Library](./citebl/)
+- Paris, Bibliothèque nationale de France
+- Florence, Laurentian Library
+- the [Homer Multitext project](./hmt/)
