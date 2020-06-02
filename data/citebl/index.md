@@ -56,7 +56,7 @@ This shows us that the inside front cover of this manuscript is identifier as pa
 
 
 
-## CITE cataloging of individual manuscripts
+## CITE cataloging of individual manuscripts from the British Library
 
 
 - [urn:cite2:citebl:burney86pages.v1:](./burney86pages/v1/)

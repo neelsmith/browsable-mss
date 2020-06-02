@@ -24,4 +24,6 @@ The facsimile files are simple static markdown files that include a URN identify
 
 With removable storage in the terabyte range affordable many individual users,  convenient tools like Ryan Baumann's downloading utilities [iiif-dl](https://github.com/ryanfb/iiif-dl) and [dzi-dl](https://github.com/ryanfb/dzi-dl), and a solid infrastructure for packaging specialized packages in Docker images, it's straightforward to create a citable facsimile edition.
 
-In posts on this web site, I'll document the steps taken to create citable facsimile editions from different freely available sources.
+In the [data section](./data/) of this web site, I document the steps taken to create citable facsimile editions from different freely available sources of images, and link to accompanying catalogs of images and codex pages in simple delimited-text files.
+
+Like the facsimiles, the documentation of data sources is organized in subdirectories corresponding to URN components.  For information on how to download images from the British Museum, the URL is therefore <https://browsable-mss.netlify.app/data/citebl>, and for the Homer Multitext project it is <https://browsable-mss.netlify.app/data/hmt>.
