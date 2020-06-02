@@ -17,7 +17,7 @@ The following four manuscripts are laid out by page:
 
 Two closely related manuscripts follow a layout spanning a verso and facing recto.  The Homer Multitext project is preparing citable images of these bifolio spreads.
 
-- Venice, Biblioteca Marciana 453 = 821 ("the Venetus B").
+- [Venice, Biblioteca Marciana 453 = 821](../../hmt/msB/v1/) ("the Venetus B").
 - [Escorial Monastery, codex Υ 1.1](../../hmt/e3pages/v1/)
 
 ## Other manuscripts
