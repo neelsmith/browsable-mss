@@ -5,7 +5,7 @@ title: 101v-102r
 
 101v-102r
 
-Cite this object as `urn:cite2:hmt:e3pages.v1:101v-102r`.  The full image is linked to a citation tool you can use to cite regions of the image.
+Cite this object as `urn:cite2:hmt:e3pages.v1:101v-102r`. The full image is linked to a citation tool you can use to cite regions of the image.
 
 [![101v](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/hmt/e3bifolio/v1/E3_101v_102r.tif/full/800,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_101v_102r) 
 

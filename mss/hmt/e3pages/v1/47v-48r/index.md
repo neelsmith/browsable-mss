@@ -5,7 +5,7 @@ title: 47v-48r
 
 47v-48r
 
-Cite this object as `urn:cite2:hmt:e3pages.v1:47v-48r`.  The full image is linked to a citation tool you can use to cite regions of the image.
+Cite this object as `urn:cite2:hmt:e3pages.v1:47v-48r`. The full image is linked to a citation tool you can use to cite regions of the image.
 
 [![47v](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/hmt/e3bifolio/v1/E3_47v_48r.tif/full/800,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_47v_48r) 
 
